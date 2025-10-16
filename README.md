@@ -49,7 +49,7 @@ I'm a versatile developer with a passion for creating beautiful, user-centered d
 
 🛠️ My Tech Stack
 
-<h4>🐞 QA Software Testing</h4>
+<h3><b>🐞 QA Software Testing</b></h3>
 <h5>Languages</h5>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -61,13 +61,13 @@ I'm a versatile developer with a passion for creating beautiful, user-centered d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-<h4>🎨 UI/UX Design</h4>
+<h3><b>🎨 UI/UX Design</b></h3>
 <h5>Tools</h5>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<h4>📱 Mobile Development</h4>
+<h3><b>📱 Mobile Development</b></h3>
 <h5>Languages</h5>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
@@ -83,7 +83,7 @@ I'm a versatile developer with a passion for creating beautiful, user-centered d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-<h4>🌐 Web Development</h4>
+<h3><b>🌐 Web Development</b></h3>
 <h5>Languages</h5>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -95,7 +95,7 @@ I'm a versatile developer with a passion for creating beautiful, user-centered d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-<h4>💻 General-Purpose Languages & Tools</h4>
+<h3><b>💻 General-Purpose Languages & Tools</b></h3>
 <h5>Languages</h5>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
