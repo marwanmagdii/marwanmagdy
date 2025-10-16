@@ -1,9 +1,5 @@
-<table>
-<tr>
-<td width="40%" valign="top">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tqNGRqZ3Zzc3Z2M3RzcmNuc2I2dWNwbnZob2d6eHdxYjU0bXp6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
-</td>
-<td width="60%" valign="top">
+<div align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tqNGRqZ3Zzc3Z2M3RzcmNuc2I2dWNwbnZob2d6eHdxYjU0bXp6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400"/>
 <h1>
 Hi there, I'm Marwan Magdy
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -11,7 +7,7 @@ Hi there, I'm Marwan Magdy
 <p>
 I'm a versatile developer with a passion for creating beautiful, user-centered digital experiences. I have a strong background as a <strong>QA Software Tester</strong> and <strong>UI/UX Developer</strong>, with <strong>2 years of experience in Mobile Development</strong>. As a <strong>Computer Science graduate</strong>, I love turning complex problems into simple, elegant, and intuitive solutions.
 </p>
-<div align="left">
+<div align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/marwan-magdy-01b3b2204/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
@@ -25,9 +21,7 @@ I'm a versatile developer with a passion for creating beautiful, user-centered d
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </a>
 </div>
-</td>
-</tr>
-</table>
+</div>
 
 👨‍💻 About Me
 
